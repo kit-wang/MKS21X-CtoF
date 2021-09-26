@@ -32,7 +32,7 @@ public class CtoFTester {
 		System.out.printf(celsius2 + " degrees C = " + celsiusToFahrenheit(celsius2) + " degrees F.\n");
 
 		// test cases for fahrenheitToCelsius()
-		// the returned output should be the arguments to the celsiusToFahrenheit() tests
+		// the returned output should equal the arguments to the celsiusToFahrenheit() tests 
 		double fah0 = 37.654866776444;
 		double fah1 = 32.0;
 		double fah2 = 212.0;
